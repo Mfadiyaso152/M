@@ -1,0 +1,8 @@
+{
+  "name": "M",
+  "description": "موقع شخصي عصري للمبرمج محمد، يعرض المواقع والتطبيقات والمهارات بأسلوب سلس وواضح",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
